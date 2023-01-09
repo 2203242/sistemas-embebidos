@@ -1,1 +1,2 @@
-tarea del alumno 1
+tarea del alumno 1  <-----aqui
+tu tarea esta mal
